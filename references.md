@@ -1,0 +1,1 @@
+* http://2ality.com/2013/06/basic-javascript.html
